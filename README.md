@@ -1,2 +1,4 @@
-# Air-Canvas-v2
-Air Canvas v2
+# CVProject
+ RMIT Software Engineering Project Management Course
+Demo video:
+https://youtu.be/lHloYhq2hkM
