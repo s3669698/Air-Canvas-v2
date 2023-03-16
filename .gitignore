@@ -1,0 +1,9 @@
+.idea/CVProject.iml
+.idea/misc.xml
+*.xml
+*.iml
+*.pyc
+env/
+.vs
+__pycache__/
+build/
